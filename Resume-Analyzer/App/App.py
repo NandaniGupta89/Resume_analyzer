@@ -659,7 +659,7 @@ def run():
         if st.button('Login'):
             
             ## Credentials 
-            if ad_user == 'nandani' and ad_password == 'nandani@14':
+            if ad_user == 'user' and ad_password == 'password':
                 
                 ### Fetch miscellaneous data from user_data(table) and convert it into dataframe
                 cursor.execute('''SELECT ID, ip_add, resume_score, convert(Predicted_Field using utf8), convert(User_level using utf8), city, state, country from user_data''')
