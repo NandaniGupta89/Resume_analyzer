@@ -105,7 +105,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
+git clone https://github.com/NandaniGupta89/Resume-analyzer.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
@@ -135,7 +135,7 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database ```cv```
 
 And change user credentials inside ```App.py```
-https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
+
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
